@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning a programar 
 - 💞️ I’m looking to collaborate on algún proyecto 
 - 📫 How to reach me ..
-- 😄 Pronouns: yised
-- ⚡ Fun fact: ninguno 
+- 😄 pronombres: yised
+- ⚡ anegdota: ninguno 
 
 <!---
 Yisedrobles/Yisedrobles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
